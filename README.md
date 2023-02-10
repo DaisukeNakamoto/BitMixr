@@ -1,0 +1,2 @@
+# BitMixr
+Decentralized Bitcoin Mixer 
